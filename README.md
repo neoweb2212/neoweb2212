@@ -1,4 +1,9 @@
-![bio de charles]([bio-charles-van-den-driessche.png](https://github.com/neoweb2212/neoweb2212/blob/main/bio-charles-van-den-driessche.png))
+<p align="center">
+  <img src="bio-charles-van-den-driessche.png" alt="Offres techniques de Charles" width="400"/>
+</p>
+
+---
+
 🔧 **Offres techniques de Charles – À la croisée de l’automatisation, du SEO et de l’IA**
 
 Spécialiste des solutions digitales à forte valeur ajoutée, je conçois et déploie des systèmes **sur-mesure** pour automatiser, analyser et scaler les activités en ligne.  
@@ -11,4 +16,3 @@ Mes offres s’adressent aux **PME, agences et créateurs de contenu** qui veule
 - **Intégration SaaS et CRM** (WordPress, Next.js, Firebase, AWS)
 
 Je propose des **solutions modulaires**, scalables, toujours pensées **ROI et performance**, que ce soit pour créer un site optimisé, un agent conversationnel, ou une stack complète pour un produit SaaS.
-
