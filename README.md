@@ -16,3 +16,6 @@ Mes offres s’adressent aux **PME, agences et créateurs de contenu** qui veule
 - **Intégration SaaS et CRM** (WordPress, Next.js, Firebase, AWS)
 
 Je propose des **solutions modulaires**, scalables, toujours pensées **ROI et performance**, que ce soit pour créer un site optimisé, un agent conversationnel, ou une stack complète pour un produit SaaS.
+https://www.neomnia.net
+https://www.charles-vandendriessche.fr/content-marketing.html
+retrouvez tous mes liens ici : https://linktr.ee/chvandendriessche
