@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="bio-charles-van-den-driessche.png" alt="Offres techniques de Charles" width="400"/>
-</p>
-
----
-
 🔧 **Offres techniques de Charles – À la croisée de l’automatisation, du SEO et de l’IA**
 
 Spécialiste des solutions digitales à forte valeur ajoutée, je conçois et déploie des systèmes **sur-mesure** pour automatiser, analyser et scaler les activités en ligne.  
